@@ -4,29 +4,23 @@ Tác giả: Nguyễn Chí Thành
 
 # A. COREL PORTAL #
 
-- ## [COREL 2022 PORTAL](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EbP0DPWmyNNFrjcG4KeWUfUBlCsh6alaIYeJsAQl0C-c6A?e=7m0F1t) ##
-    - Link tải dự phòng: https://drive.google.com/file/d/1lL07MUDq-VsCFjweSlAZE3ZIYMaDwdjs/view?usp=sharing
-    - Link tải dự phòng: https://terabox.com/s/1ZHDXgogh21YGMvMJVzAwcA
+- ## [COREL 2022 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQWTMZh5F8quOz4B?e=53LTzg) ##
+    - Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQWTMZh5F8quOz4B?e=53LTzg)
+    - Link tải dự phòng [tại đây](https://terabox.com/s/1ZHDXgogh21YGMvMJVzAwcA)
     - **Lưu ý:** có một số file khi giải nén bị **Windows Security** ăn thịt nhưng vẵn chạy tốt!
-- ## [COREL 2020 PORTAL](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EUaOVvipIXtCl7Nic5lubP0Bghas3dc8JGCbB--OPZWnbQ?e=Dt40DX) ##
+- ## [COREL 2020 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQQjGkJS4plP-ii-?e=wE5er9) ##
+    - Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQQjGkJS4plP-ii-?e=wE5er9)
     - Link tải dự phòng: https://drive.google.com/file/d/1joRd4lF-7VhlN-8xw7LoWpOjoLVzR-Dh/view?usp=sharing
-- ## [CORELDRAW X8 PORTAL](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ErNvzeQLotZCgZ94XJSZyq8BiJ-ROCp3PCOl0-J6oBBwlQ?e=BblUHj) ##
+- ## [CORELDRAW X8 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQPMq4dosNUTXckW?e=pkiiTr) ##
+    - Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQPMq4dosNUTXckW?e=pkiiTr)
     - Link tải dự phòng: https://drive.google.com/file/d/1UJqlpiQg1icYItARYSXwNpEHhxVWX_lG/view?usp=sharing
-- ## [Coreldraw X7 PORTAL](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Et-FRS5DeLVImkP9ogS2TyUB-mcEc2r2BGJAMuR2-LoVtQ?e=SfPdk5) ##
+- ## [Coreldraw X7 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQbJPBDmmGHd79OF?e=PZJKv7) ##
+    - Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQbJPBDmmGHd79OF?e=PZJKv7)
     - Link tải dự phòng: https://drive.google.com/file/d/1hUTpOujSOKx1GMtXDdNF-0ECsTDHc0-s/view?usp=sharing
 
 # B. COREL CÀI ĐẶT #
 
-- ## COREL 2022 ##
-    - **[Bộ cài đặt bấm vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EfYjdgK0Yd5PsjBF7pOVT2kBEiNSmz9c-K5igYsXuxFb_w?e=VcH6it)**
-    - **Có file crack sẵn trong bộ cài đặt, hoặc muốn download riêng thì [bấm vào đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Elkm8YSPCzJEp1guTR4_H40BLPhs-yp7ouj_kN7--8mRpA?e=EgfHcw)**
-    - Password giải nén: isangtao.com 
-    - Cài bình thường, cài xong thì copy 2 file crack ghi đè vào đường dẫn: C:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64
-    - **Sau đó chỉnh sửa file hosts giống như trong crack Corel 2021 bên dưới!!!**
-
 - ## COEREL 2021 ##
-    - [Source nguồn tại đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EnW6Ebw3LrtImRaPKpEGftUB1y-9MpszIL3BOcT7r9ty4Q?e=Ju89ET)
-    - Sau khi cài đặt xong, copy file [Cap.exe](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EhdvwQF59KRKj_wdSiogVTkBvaYgA2S7w2SCzY6QatYhcg?e=JinXkZ) và [CRLFRMWK.dll](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EhdvwQF59KRKj_wdSiogVTkBvaYgA2S7w2SCzY6QatYhcg?e=JinXkZ) vào đường dẫn: C:\Program Files\Corel\CorelDRAW Graphics Suite 2021\Programs64
     - Tiếp theo chỉnh file hosts! File này nằm trong đường dẫn: C:\Windows\System32\drivers\etc
     - **Nội dung cần thêm vào file hot:**
 
