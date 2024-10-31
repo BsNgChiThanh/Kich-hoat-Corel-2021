@@ -5,17 +5,23 @@ Tác giả: Nguyễn Chí Thành
 # A. COREL PORTAL #
 
 - ## [COREL 2024 PORTAL]() - Version 25.0.0.230 - March 2024 ##
+    - Link download [tại đây]()
+    - Pass giải nén: 123
+    - Khi bị Windows depender chặn lại thì đọc cách giải quyết: https://github.com/BsNgChiThanh/AllowWindowsDepender
 
 - ## [COREL 2022 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQWTMZh5F8quOz4B?e=53LTzg) - Version 24.0.0.301 - March 2022 ##
     - Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQWTMZh5F8quOz4B?e=53LTzg)
     - Link tải dự phòng [tại đây](https://terabox.com/s/1ZHDXgogh21YGMvMJVzAwcA)
     - **Lưu ý:** có một số file khi giải nén bị **Windows Security** ăn thịt nhưng vẵn chạy tốt!
+
 - ## [COREL 2020 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQQjGkJS4plP-ii-?e=wE5er9) ##
     - Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQQjGkJS4plP-ii-?e=wE5er9)
     - Link tải dự phòng: https://drive.google.com/file/d/1joRd4lF-7VhlN-8xw7LoWpOjoLVzR-Dh/view?usp=sharing
+
 - ## [CORELDRAW X8 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQPMq4dosNUTXckW?e=pkiiTr) ##
     - Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQPMq4dosNUTXckW?e=pkiiTr)
     - Link tải dự phòng: https://drive.google.com/file/d/1UJqlpiQg1icYItARYSXwNpEHhxVWX_lG/view?usp=sharing
+
 - ## [Coreldraw X7 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQbJPBDmmGHd79OF?e=PZJKv7) ##
     - Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQbJPBDmmGHd79OF?e=PZJKv7)
     - Link tải dự phòng: https://drive.google.com/file/d/1hUTpOujSOKx1GMtXDdNF-0ECsTDHc0-s/view?usp=sharing
