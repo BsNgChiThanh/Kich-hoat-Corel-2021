@@ -4,8 +4,8 @@ Tác giả: Nguyễn Chí Thành
 
 # A. COREL PORTAL #
 
-- ## [COREL 2024 PORTAL]() - Version 25.0.0.230 - March 2024 ##
-    - Link download [tại đây]()
+- ## [COREL 2024 PORTAL](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EWKD7Xpbc9tIhdmedAOLO6YB5C8Vwo7BgeCzgq5055n_DA?e=aBuhWM) - Version 25.0.0.230 - March 2024 ##
+    - Link download [tại đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EWKD7Xpbc9tIhdmedAOLO6YB5C8Vwo7BgeCzgq5055n_DA?e=aBuhWM)
     - Pass giải nén: 123
     - Khi bị Windows depender chặn lại thì đọc cách giải quyết: https://github.com/BsNgChiThanh/AllowWindowsDepender
 
