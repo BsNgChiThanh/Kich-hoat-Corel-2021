@@ -61,3 +61,9 @@ Sau khi sử dụng Corel 1 thời gian, chúng ta sẽ thấy xuất hiện 1 l
 - Bước 2: Bỏ chọn dấu tích Back up original file before saving trong tùy chọn Save:
 - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Corel/assets/82578024/5500aa2e-7b9b-4b4a-9136-59d653e7dc43)
 - OK xong, vừa rồi là chi tiết các Bỏ backup trong CorelDRAW, từ nay chúng ta sẽ không bao giờ phải chịu phiền toái vì những file backup quá nhiều nữa!
+
+# SAVE hạ cấp trong Corel #
+- Bấm **Save As**
+- Sổ vào **Version** chọn cấp muốn hạ.
+- ![image](https://github.com/user-attachments/assets/79358426-9fc6-46e1-88bc-1fa49a68c77e)
+- sau đó bấm vào nút **Save** là xong.
