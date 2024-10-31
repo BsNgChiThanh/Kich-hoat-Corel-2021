@@ -4,7 +4,7 @@ Tác giả: Nguyễn Chí Thành
 
 # A. COREL PORTAL #
 
-- ## [COREL 2022 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQWTMZh5F8quOz4B?e=53LTzg) ##
+- ## [COREL 2022 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQWTMZh5F8quOz4B?e=53LTzg) - Version 24.0.0.301 - March 2022 ##
     - Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQWTMZh5F8quOz4B?e=53LTzg)
     - Link tải dự phòng [tại đây](https://terabox.com/s/1ZHDXgogh21YGMvMJVzAwcA)
     - **Lưu ý:** có một số file khi giải nén bị **Windows Security** ăn thịt nhưng vẵn chạy tốt!
