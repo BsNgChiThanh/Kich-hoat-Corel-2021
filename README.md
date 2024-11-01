@@ -29,7 +29,7 @@ Tác giả: Nguyễn Chí Thành
 # B. COREL CÀI ĐẶT #
 
 ## CorelDRAW 2024 ##
-- Tải phần mềm về [tại đây]()
+- Tải phần mềm về [tại đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/Eb6aDTZFJ-ZDi4AHe36LQX8BIdksqwYHz8G7FkiJhdFDMw?e=ygfPDo)
 - Giải nén, pass giải nén là 12344321
 - Chạy file Setup.exe trong thư mục X64
 - Sau khi đọc và hiểu rõ quy định thì click “Agree” để tiếp tục quá trình cài đặt.
