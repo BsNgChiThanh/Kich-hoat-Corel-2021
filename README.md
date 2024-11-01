@@ -37,10 +37,9 @@ Tác giả: Nguyễn Chí Thành
 - Điền Serial là DR25R03-JNFQZY7-RB8PAXN-CWDSYM6 như hình dưới rồi nhấn “Next“. Chờ đợi cài đặt hoàn tất.
 - ![image](https://github.com/user-attachments/assets/d587ce16-7b49-43df-afd9-ad2c94f441f4)
 - Sau khi cài đặt xong phần mềm CorelDRAW 2024 đừng chạy vội, mà vào thư mục **Crack** copy file **[PASMUTILITY.dll](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EaXyH0mPnqFDsFHKISZcUTwB4wHTDo8NT97X-Of_NPL_JQ?e=pTPhnO)** rồi dán vào thư mục *C:\Program Files\Corel\PASMUtility\v1\*
-- Quay lại thư mục **Crack** chạy file **Reg**, chọn YES rồi OK.
-- 
+- Quay lại thư mục **Crack** bấm chuột phải vào file **[Reg](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/Eb-6hvWyNDNGra3j1D0lLvkBcn05kc952xwJOQ7zkd2NPg?e=XW1DMG)** chọn **Merge**, chọn YES rồi OK.
+- ![image](https://github.com/user-attachments/assets/75fd2583-7663-4724-9257-a4eb1003f0db)
 
-    
 ## COEREL 2021 ##
 - Tiếp theo chỉnh file hosts! File này nằm trong đường dẫn: C:\Windows\System32\drivers\etc
 - **Nội dung cần thêm vào file hot:**
