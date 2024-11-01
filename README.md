@@ -4,33 +4,46 @@ Tác giả: Nguyễn Chí Thành
 
 # A. COREL PORTAL #
 
-- ## [COREL 2024 PORTAL](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EWKD7Xpbc9tIhdmedAOLO6YB5C8Vwo7BgeCzgq5055n_DA?e=aBuhWM) - Version 25.0.0.230 - March 2024 ##
-    - Link download [tại đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EWKD7Xpbc9tIhdmedAOLO6YB5C8Vwo7BgeCzgq5055n_DA?e=aBuhWM)
-    - Pass giải nén: 123
-    - Khi bị Windows depender chặn lại thì đọc cách giải quyết: https://github.com/BsNgChiThanh/AllowWindowsDepender
+## [COREL 2024 PORTAL](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EWKD7Xpbc9tIhdmedAOLO6YB5C8Vwo7BgeCzgq5055n_DA?e=aBuhWM) - Version 25.0.0.230 - March 2024 ##
+- Link download [tại đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EWKD7Xpbc9tIhdmedAOLO6YB5C8Vwo7BgeCzgq5055n_DA?e=aBuhWM)
+- Pass giải nén: 123
+- Khi bị Windows depender chặn lại thì đọc cách giải quyết: https://github.com/BsNgChiThanh/AllowWindowsDepender
 
-- ## [COREL 2022 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQWTMZh5F8quOz4B?e=53LTzg) - Version 24.0.0.301 - March 2022 ##
-    - Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQWTMZh5F8quOz4B?e=53LTzg)
-    - Link tải dự phòng [tại đây](https://terabox.com/s/1ZHDXgogh21YGMvMJVzAwcA)
-    - **Lưu ý:** có một số file khi giải nén bị **Windows Security** ăn thịt nhưng vẵn chạy tốt!
+## [COREL 2022 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQWTMZh5F8quOz4B?e=53LTzg) - Version 24.0.0.301 - March 2022 ##
+- Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQWTMZh5F8quOz4B?e=53LTzg)
+- Link tải dự phòng [tại đây](https://terabox.com/s/1ZHDXgogh21YGMvMJVzAwcA)
+- **Lưu ý:** có một số file khi giải nén bị **Windows Security** ăn thịt nhưng vẵn chạy tốt!
 
-- ## [COREL 2020 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQQjGkJS4plP-ii-?e=wE5er9) ##
-    - Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQQjGkJS4plP-ii-?e=wE5er9)
-    - Link tải dự phòng: https://drive.google.com/file/d/1joRd4lF-7VhlN-8xw7LoWpOjoLVzR-Dh/view?usp=sharing
+## [COREL 2020 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQQjGkJS4plP-ii-?e=wE5er9) ##
+- Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQQjGkJS4plP-ii-?e=wE5er9)
+- Link tải dự phòng: https://drive.google.com/file/d/1joRd4lF-7VhlN-8xw7LoWpOjoLVzR-Dh/view?usp=sharing
 
-- ## [CORELDRAW X8 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQPMq4dosNUTXckW?e=pkiiTr) ##
-    - Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQPMq4dosNUTXckW?e=pkiiTr)
-    - Link tải dự phòng: https://drive.google.com/file/d/1UJqlpiQg1icYItARYSXwNpEHhxVWX_lG/view?usp=sharing
+## [CORELDRAW X8 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQPMq4dosNUTXckW?e=pkiiTr) ##
+- Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQPMq4dosNUTXckW?e=pkiiTr)
+- Link tải dự phòng: https://drive.google.com/file/d/1UJqlpiQg1icYItARYSXwNpEHhxVWX_lG/view?usp=sharing
 
-- ## [Coreldraw X7 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQbJPBDmmGHd79OF?e=PZJKv7) ##
-    - Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQbJPBDmmGHd79OF?e=PZJKv7)
-    - Link tải dự phòng: https://drive.google.com/file/d/1hUTpOujSOKx1GMtXDdNF-0ECsTDHc0-s/view?usp=sharing
+## [Coreldraw X7 PORTAL](https://1drv.ms/u/s!AjzhqlUXIkYVgQbJPBDmmGHd79OF?e=PZJKv7) ##
+- Link download [tại đây](https://1drv.ms/u/s!AjzhqlUXIkYVgQbJPBDmmGHd79OF?e=PZJKv7)
+- Link tải dự phòng: https://drive.google.com/file/d/1hUTpOujSOKx1GMtXDdNF-0ECsTDHc0-s/view?usp=sharing
 
 # B. COREL CÀI ĐẶT #
 
-- ## COEREL 2021 ##
-    - Tiếp theo chỉnh file hosts! File này nằm trong đường dẫn: C:\Windows\System32\drivers\etc
-    - **Nội dung cần thêm vào file hot:**
+## CorelDRAW 2024 ##
+- Tải phần mềm về [tại đây]()
+- Giải nén, pass giải nén là 12344321
+- Chạy file Setup.exe trong thư mục X64
+- Sau khi đọc và hiểu rõ quy định thì click “Agree” để tiếp tục quá trình cài đặt.
+- ![image](https://github.com/user-attachments/assets/4afd1c66-1c8e-498e-9e9b-c43c72af75f0)
+- Điền Serial là DR25R03-JNFQZY7-RB8PAXN-CWDSYM6 như hình dưới rồi nhấn “Next“. Chờ đợi cài đặt hoàn tất.
+- ![image](https://github.com/user-attachments/assets/d587ce16-7b49-43df-afd9-ad2c94f441f4)
+- Sau khi cài đặt xong phần mềm CorelDRAW 2024 đừng chạy vội, mà vào thư mục **Crack** copy file **[PASMUTILITY.dll](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EaXyH0mPnqFDsFHKISZcUTwB4wHTDo8NT97X-Of_NPL_JQ?e=pTPhnO)** rồi dán vào thư mục *C:\Program Files\Corel\PASMUtility\v1\*
+- Quay lại thư mục **Crack** chạy file **Reg**, chọn YES rồi OK.
+- 
+
+    
+## COEREL 2021 ##
+- Tiếp theo chỉnh file hosts! File này nằm trong đường dẫn: C:\Windows\System32\drivers\etc
+- **Nội dung cần thêm vào file hot:**
 
 ```php
 0.0.0.0 mc.corel.com
@@ -46,13 +59,13 @@ Tác giả: Nguyễn Chí Thành
 ```
 
 - **Giải pháp sửa file hosts:**
-    - Một số máy không cho chỉnh file hosts trực tiếp, mà chỉnh bằng cách:
-    - Truy cập vào đường dẫn: C:\Windows\System32\drivers\etc
-    - Copy files hosts ra một vị trí nào đó ví dụ màn hình desktop
-    - Dùng NotePad mở file hosts lên, copy nội dung cần vào cuối của file, bấm "Save"
-    - Sau đó ra màn hình desktop, copy file hosts đó, ghi đè vào đường dẫn: C:\Windows\System32\drivers\etc
-    - Vậy là xong!
-    - Restart máy là OK.
+- Một số máy không cho chỉnh file hosts trực tiếp, mà chỉnh bằng cách:
+- Truy cập vào đường dẫn: C:\Windows\System32\drivers\etc
+- Copy files hosts ra một vị trí nào đó ví dụ màn hình desktop
+- Dùng NotePad mở file hosts lên, copy nội dung cần vào cuối của file, bấm "Save"
+- Sau đó ra màn hình desktop, copy file hosts đó, ghi đè vào đường dẫn: C:\Windows\System32\drivers\etc
+- Vậy là xong!
+- Restart máy là OK.
 
 # Xóa rác trong file tạm do Corel sinh ra #
 - Bấm biểu tượng **Windows + R**
